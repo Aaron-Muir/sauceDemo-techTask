@@ -14,7 +14,6 @@ This framework was built on the most up-to-date version of Playwright therefore 
 - MacOS 12 Monterey or MacOS 13 Ventura
 - Debian 11, Debian 12, Ubuntu 20.04 or Ubuntu 22.04.
 
-Npm is also 
 
 ### Installing
 
